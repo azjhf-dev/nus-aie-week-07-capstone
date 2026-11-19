@@ -2,6 +2,12 @@
 
 **One module, one week, one repository.** Independent learning material mapped to the published NUS School of Computing SCTP AI Engineering objectives. Not issued, endorsed or accredited by NUS.
 
+## Open without sign-in
+
+https://azjhf-dev.github.io/nus-aie-week-07-capstone/
+
+Choose the interactive core or one of the read-only mobile snapshots.
+
 ## What is ready
 
 - `course.py`: reactive Marimo mechanism lab, responsive SVG charts and controllable motion graphics.
