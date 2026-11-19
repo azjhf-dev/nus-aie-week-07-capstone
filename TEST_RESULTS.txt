@@ -1,0 +1,24 @@
+test_abstention (test_learning.NumericalTests) ... ok
+test_activity_deterministic (test_learning.NumericalTests) ... ok
+test_attention_normalised_and_causal (test_learning.NumericalTests) ... ok
+test_autoencoder_learns (test_learning.NumericalTests) ... ok
+test_budget (test_learning.NumericalTests) ... ok
+test_confusion_accounts_for_all_rows (test_learning.NumericalTests) ... ok
+test_convolution_shape (test_learning.NumericalTests) ... ok
+test_payload (test_learning.NumericalTests) ... ok
+test_regression_learns (test_learning.NumericalTests) ... ok
+test_reject_boolean_and_nan (test_learning.NumericalTests) ... ok
+test_retrieval (test_learning.NumericalTests) ... ok
+test_review_gate (test_learning.NumericalTests) ... ok
+test_rollout_gate (test_learning.NumericalTests) ... ok
+test_same_distribution_psi (test_learning.NumericalTests) ... ok
+test_softmax (test_learning.NumericalTests) ... ok
+test_threshold_recall_monotonic (test_learning.NumericalTests) ... ok
+test_xor_trains (test_learning.NumericalTests) ... ok
+test_accounting (test_learning.ProjectTests) ... ok
+test_fixed_artifact (test_learning.ProjectTests) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 0.068s
+
+OK
